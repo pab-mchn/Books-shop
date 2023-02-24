@@ -4,14 +4,16 @@
     "name": "On The Road",
     "author": "Jack Kerouac",
     "price": 10,
-    "img": "https://imgs.search.brave.com/PG6VRGVRdd1tat50p4zbkf4eZejQVmLSXnyikv6sZfQ/rs:fit:346:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/eGVESlRoNnNFWDZk/VXhhcjJnTkNnSGFL/SiZwaWQ9QXBp"
+    "img": "https://imgs.search.brave.com/PG6VRGVRdd1tat50p4zbkf4eZejQVmLSXnyikv6sZfQ/rs:fit:346:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/eGVESlRoNnNFWDZk/VXhhcjJnTkNnSGFL/SiZwaWQ9QXBp",
+    "quanty": 1
   },
   {
     "id": 2,
     "name": "The Subterraneans",
     "author": "Jack Kerouac",
     "price": 20,
-    "img": "https://imgs.search.brave.com/xjuT1rKjFLtTvqpYLzm9WnQuJhjNsEYA_BjY0dc6DzY/rs:fit:169:225:1/g:ce/aHR0cHM6Ly90c2Uy/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC56N0pWWExu/MlNRS2pnMFZJNU50/S1ZnQUFBQSZwaWQ9/QXBp"
+    "img": "https://imgs.search.brave.com/xjuT1rKjFLtTvqpYLzm9WnQuJhjNsEYA_BjY0dc6DzY/rs:fit:169:225:1/g:ce/aHR0cHM6Ly90c2Uy/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC56N0pWWExu/MlNRS2pnMFZJNU50/S1ZnQUFBQSZwaWQ9/QXBp",
+    "quanty": 1
   },
 
   {
@@ -19,13 +21,15 @@
     "name": "Indian Journals",
     "author": "Allen Ginsberg",
     "price": 27,
-    "img": "https://imgs.search.brave.com/4Y3BSHksszs7HykDBvOWmuxuVXXbwtRzzhPZICzex_Q/rs:fit:306:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/amNJZS1TOXdqQm9W/Vk4wUGREc05BSGFM/YyZwaWQ9QXBp"
+    "img": "https://imgs.search.brave.com/4Y3BSHksszs7HykDBvOWmuxuVXXbwtRzzhPZICzex_Q/rs:fit:306:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/amNJZS1TOXdqQm9W/Vk4wUGREc05BSGFM/YyZwaWQ9QXBp",
+    "quanty": 1
   },
   {
     "id": 4,
     "name": "Iron Horse",
     "author": "Allen Ginsberg",
     "price": 18,
-    "img": "https://imgs.search.brave.com/5DlfTNtciOhs99vCzyA2EWHQ-uKcxtFI7J7c8CwTY-E/rs:fit:313:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/cXRfQnJOaktuaGho/bWNqX0Y1OXZRQUFB/QSZwaWQ9QXBp"
+    "img": "https://imgs.search.brave.com/5DlfTNtciOhs99vCzyA2EWHQ-uKcxtFI7J7c8CwTY-E/rs:fit:313:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/cXRfQnJOaktuaGho/bWNqX0Y1OXZRQUFB/QSZwaWQ9QXBp",
+    "quanty": 1
   }
 ]
