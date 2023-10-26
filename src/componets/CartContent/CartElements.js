@@ -23,7 +23,7 @@ const CartElements = () => {
         <h3 className='name'>{product.name}</h3>
         <CartItemCounter product={product} />
         <h4 className='price'>{product.price * product.quanty}$</h4>
-        <h3 class='cart-delete-button' onClick={() => deleteProduct(product.id)}>
+        <h3 className='cart-delete-button' onClick={() => deleteProduct(product.id)}>
           ❌
         </h3>
       </div>
