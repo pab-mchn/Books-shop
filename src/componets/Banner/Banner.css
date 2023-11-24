@@ -1,7 +1,7 @@
 .banner {
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 60vh;
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url("https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg");
