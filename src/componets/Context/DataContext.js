@@ -15,7 +15,10 @@ const DataProvider = ({ children }) => {
     }
   };
 
-  return <dataContext.Provider value={{ cart, setCart, buyProducts }}>{children}</dataContext.Provider>;
+  return <
+    dataContext.Provider value={{ cart, setCart, buyProducts }}>
+          {children}
+  </dataContext.Provider>;
 };
 
 export default DataProvider;

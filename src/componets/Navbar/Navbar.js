@@ -17,6 +17,12 @@ const Navbar = () => {
         <Link to={"/checkout"}>
           <h2 className='check'>Check</h2>
         </Link>
+        <Link to={"/material"}>
+          <h2 className='check' >Material-ui</h2>
+        </Link>
+        <Link to={"/exform"}>
+          <h2 className='check' >ex</h2>
+        </Link>
         <Link className='seeCarrito' to={"/cart"}>
           🛒
           {cart.length > 0 ? <TotalItems /> : null}
