@@ -14,6 +14,9 @@ const Navbar = () => {
         <Link to={"/"}>
           <h1 className='navbar-logo'>Shop.</h1>
         </Link>
+        <Link to={"/checkout"}>
+          <h2 className='check'>Check</h2>
+        </Link>
         <Link className='seeCarrito' to={"/cart"}>
           🛒
           {cart.length > 0 ? <TotalItems /> : null}

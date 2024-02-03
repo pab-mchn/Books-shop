@@ -28,3 +28,10 @@
   cursor: pointer;
   text-decoration: none;
 }
+.check {
+  font-size: 25px;
+  margin-right: 40px;
+  margin-top: 4vh;
+  cursor: pointer;
+  text-decoration: none;
+}
